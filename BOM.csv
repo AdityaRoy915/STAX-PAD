@@ -1,0 +1,4 @@
+No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier	Primary Category	Secondary Category	LCSC Stock	LCSC Price
+1	5	1N4148	D1,D2,D3,D4,D5	DO-35_BD2.0-L4.2-P8.20-D0.5-RD		1N4148	SMC(桑德斯)	C493188	LCSC	Diodes	Switching Diodes		
+2	5	CPG151101D13	U1,U2,U3,U4,U5	KEY-TH_CPG151101D21X		CPG151101D13	HanElectricity(瀚源)	C49234235	LCSC	Switches	Mechanical Keyboard Shaft		
+3	1	RP2040-ZERO	U6	COMM-SMD_RP2040-ZERO		RP2040-ZERO	Waveshare(微雪电子)	C5350143	LCSC	Development Boards & Tools	Development Boards & Kits		
