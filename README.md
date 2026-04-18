@@ -22,15 +22,10 @@ Stack-Pad is a minimal 5-key macro pad built for productivity, shortcuts, and cu
 ## Images :
 <p align="center">
   <img src="/Assets/1.png" width="510"/>
-  <img src="/Assets/2.png" width="450"/>
-</p>
-<p align="center">
   <img src="/Assets/3.png" width="450"/>
 </p>
-
 <p align="center">
-  <img src="/Assets/4.png" width="320"/>
-  <img src="/Assets/5.png" width="370"/>
+  <img src="/Assets/2.png" width="450"/>
 </p>
 
 ## BOM :
